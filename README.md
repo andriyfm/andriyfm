@@ -45,8 +45,11 @@ Saya adalah seorang *Software Engineer* yang bersemangat dalam membangun solusi 
 ### 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <!-- GitHub Activity Graph Animation -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andriyfm&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" width="100%" alt="Andriy's GitHub Activity Graph" />
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=andriyfm&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&v=1" width="100%" alt="Activity Graph" />
+
+<!-- Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=andriyfm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="GitHub Stats" />
 </div>
 
 <br>
